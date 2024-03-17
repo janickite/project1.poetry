@@ -1,11 +1,11 @@
-# 120project1.poetry
-project 1 github poetry
+# I'm hungry.
+
 <head>  
-<title>A simple title goes here</title>  
+Will you share lunch?
 <link href="style.css" rel="stylesheet" />  
 </head>
 
 <body>
-<h1>A simple heading goes here</h1>
-<p>Did you eat?.</p>
+<h1>Did you eat?</h1>
+<p>Three meals a day, okay?</p>
 </body>
